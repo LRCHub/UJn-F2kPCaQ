@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Sunset Glow",
+  "base_artist": "BIGBANG",
+  "createdAt": "2026-03-02T14:48:23.970982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunset Glow",
+      "artist": "Big Bang",
+      "has_synced": true,
+      "path": "select/01_Sunset_Glow_Big_Bang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunset Glow (붉은 노을)",
+      "artist": "Big Bang",
+      "has_synced": true,
+      "path": "select/02_Sunset_Glow_(붉은_노을)_Big_Bang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunset Glow",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/03_Sunset_Glow_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sunset Glow",
+      "artist": "빅뱅 (BIG BANG)",
+      "has_synced": true,
+      "path": "select/04_Sunset_Glow_빅뱅_(BIG_BANG).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SUNSET GLOW",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/05_SUNSET_GLOW_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunset Glow",
+      "artist": "Big Bang",
+      "has_synced": true,
+      "path": "select/06_Sunset_Glow_Big_Bang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SUNSET GLOW - KR Ver.",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/07_SUNSET_GLOW_-_KR_Ver._BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunset Glow",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/08_Sunset_Glow_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SUNSET GLOW -BIGBANG JAPAN DOME TOUR 2013～2014-",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/09_SUNSET_GLOW_-BIGBANG_JAPAN_DOME_TOUR_2013~2014-_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunset Glow (붉은 노을)",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/10_Sunset_Glow_(붉은_노을)_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SUNSET GLOW (KR Ver.)",
+      "artist": "Bigbang",
+      "has_synced": true,
+      "path": "select/11_SUNSET_GLOW_(KR_Ver.)_Bigbang.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUNSET GLOW - KR Ver.",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/pl_01_SUNSET_GLOW_-_KR_Ver._BIGBANG.txt"
+    }
+  ]
+}
